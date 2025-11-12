@@ -1,4 +1,3 @@
 Hello world
-My name is pavithra
-I am a backend developer
-i am a girl
+i am a girl 
+ my name is pavithra
